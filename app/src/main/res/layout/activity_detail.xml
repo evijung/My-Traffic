@@ -34,7 +34,8 @@
         android:layout_height="wrap_content"
         android:text="@string/button_back"
         android:id="@+id/button2"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:onClick="clickBack" />
 
     <ScrollView
         android:layout_width="fill_parent"
@@ -51,7 +52,7 @@
             android:layout_height="wrap_content"
             android:text="New Text"
             android:id="@+id/textView5"
-            android:textSize="@dimen/h2"
+            android:textSize="@dimen/h4"
             android:textColor="@color/text" />
     </ScrollView>
 </RelativeLayout>
