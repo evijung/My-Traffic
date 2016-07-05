@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Easy Traffic</string>
+    <string name="app_name">My Traffic</string>
 
     <string name="head_main">ป้ายจราจร</string>
     <string name="button_about">About Me</string>
